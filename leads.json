@@ -105,7 +105,8 @@
     "ads_estrategia": "Google Shopping pra produtos físicos. Meta Ads (carrossel) pra B2B com remarketing em quem visitou catálogo.",
     "buyer_persona": "Comprador B2B / lojista / distribuidor pesquisando fornecedor.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 2,
@@ -189,7 +190,8 @@
     "ads_estrategia": "Google Ads local + Google Meu Negócio. Foco em buscas de urgência ('retífica motor diesel hoje').",
     "buyer_persona": "Frotista, motorista de caminhão, oficina mecânica.",
     "receita_trafego_mes": 400,
-    "receita_recorrente_mes": 550
+    "receita_recorrente_mes": 550,
+    "mockup_img": "mockups/servicos_local.png"
   },
   {
     "rank": 3,
@@ -268,7 +270,8 @@
     "ads_estrategia": "Google Shopping pra produtos físicos. Meta Ads (carrossel) pra B2B com remarketing em quem visitou catálogo.",
     "buyer_persona": "Comprador B2B / lojista / distribuidor pesquisando fornecedor.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 4,
@@ -352,7 +355,8 @@
     "ads_estrategia": "Google Ads local + Google Meu Negócio. Foco em buscas de urgência ('retífica motor diesel hoje').",
     "buyer_persona": "Frotista, motorista de caminhão, oficina mecânica.",
     "receita_trafego_mes": 400,
-    "receita_recorrente_mes": 550
+    "receita_recorrente_mes": 550,
+    "mockup_img": "mockups/servicos_local.png"
   },
   {
     "rank": 5,
@@ -411,7 +415,8 @@
     "ads_estrategia": "Google Shopping pra produtos físicos. Meta Ads (carrossel) pra B2B com remarketing em quem visitou catálogo.",
     "buyer_persona": "Comprador B2B / lojista / distribuidor pesquisando fornecedor.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 6,
@@ -489,7 +494,8 @@
     "ads_estrategia": "Não aplicar — é concorrente.",
     "buyer_persona": "Concorrente direto.",
     "receita_trafego_mes": 0,
-    "receita_recorrente_mes": 0
+    "receita_recorrente_mes": 0,
+    "mockup_img": "mockups/corporate.png"
   },
   {
     "rank": 7,
@@ -539,7 +545,8 @@
     "ads_estrategia": "Google Ads + Meta Ads. Foco local.",
     "buyer_persona": "Comprador B2B local pesquisando fornecedor.",
     "receita_trafego_mes": 600,
-    "receita_recorrente_mes": 750
+    "receita_recorrente_mes": 750,
+    "mockup_img": "mockups/showroom_visual.png"
   },
   {
     "rank": 8,
@@ -618,7 +625,8 @@
     "ads_estrategia": "Meta Ads (Instagram pesado em beauty) + Google Ads. SEO em 'terceirização cosmético'.",
     "buyer_persona": "Empreendedor de marca cosmética buscando terceirizar produção.",
     "receita_trafego_mes": 1200,
-    "receita_recorrente_mes": 1400
+    "receita_recorrente_mes": 1400,
+    "mockup_img": "mockups/showroom_visual.png"
   },
   {
     "rank": 9,
@@ -702,7 +710,8 @@
     "ads_estrategia": "Google Ads em termos técnicos: 'usinagem de precisão', 'corte a laser CNC', 'tolerância h7'. LinkedIn Ads pra engenheiros.",
     "buyer_persona": "Engenheiro de processo / comprador técnico pedindo cotação.",
     "receita_trafego_mes": 1200,
-    "receita_recorrente_mes": 1400
+    "receita_recorrente_mes": 1400,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 10,
@@ -757,7 +766,8 @@
     "ads_estrategia": "Google Ads local + remarketing.",
     "buyer_persona": "Frotista / oficina / dono de máquina pesada.",
     "receita_trafego_mes": 500,
-    "receita_recorrente_mes": 650
+    "receita_recorrente_mes": 650,
+    "mockup_img": "mockups/servicos_local.png"
   },
   {
     "rank": 11,
@@ -845,7 +855,8 @@
     "ads_estrategia": "Google Shopping pra produtos físicos. Meta Ads (carrossel) pra B2B com remarketing em quem visitou catálogo.",
     "buyer_persona": "Comprador B2B / lojista / distribuidor pesquisando fornecedor.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 12,
@@ -921,7 +932,8 @@
     "ads_estrategia": "Google Ads em palavras-chave específicas: 'metalúrgica [cidade]', 'corte e dobra de chapa', 'estrutura metálica' — leads quentes, intent alto. Meta Ads pra remarketing.",
     "buyer_persona": "Comprador industrial / engenheiro de manutenção precisando de fornecedor próximo de fábrica.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 13,
@@ -999,7 +1011,8 @@
     "ads_estrategia": "Não aplicar — é concorrente.",
     "buyer_persona": "Concorrente direto.",
     "receita_trafego_mes": 0,
-    "receita_recorrente_mes": 0
+    "receita_recorrente_mes": 0,
+    "mockup_img": "mockups/corporate.png"
   },
   {
     "rank": 14,
@@ -1049,7 +1062,8 @@
     "ads_estrategia": "Google Ads local + Google Meu Negócio. Foco em buscas de urgência ('retífica motor diesel hoje').",
     "buyer_persona": "Frotista, motorista de caminhão, oficina mecânica.",
     "receita_trafego_mes": 400,
-    "receita_recorrente_mes": 550
+    "receita_recorrente_mes": 550,
+    "mockup_img": "mockups/servicos_local.png"
   },
   {
     "rank": 15,
@@ -1128,7 +1142,8 @@
     "ads_estrategia": "Google Ads local + Google Meu Negócio. Foco em buscas de urgência ('retífica motor diesel hoje').",
     "buyer_persona": "Frotista, motorista de caminhão, oficina mecânica.",
     "receita_trafego_mes": 400,
-    "receita_recorrente_mes": 550
+    "receita_recorrente_mes": 550,
+    "mockup_img": "mockups/servicos_local.png"
   },
   {
     "rank": 16,
@@ -1206,7 +1221,8 @@
     "ads_estrategia": "Google Ads + Google Shopping (B2B).",
     "buyer_persona": "Frotista / construtor / agro buscando motor reposição.",
     "receita_trafego_mes": 1500,
-    "receita_recorrente_mes": 1750
+    "receita_recorrente_mes": 1750,
+    "mockup_img": "mockups/ecommerce_b2b.png"
   },
   {
     "rank": 17,
@@ -1256,7 +1272,8 @@
     "ads_estrategia": "Google Ads termos técnicos + Google Shopping.",
     "buyer_persona": "Comprador industrial / mecânico / engenheiro de processo.",
     "receita_trafego_mes": 1000,
-    "receita_recorrente_mes": 1200
+    "receita_recorrente_mes": 1200,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 18,
@@ -1336,7 +1353,8 @@
     "ads_estrategia": "Google Ads em palavras-chave específicas: 'metalúrgica [cidade]', 'corte e dobra de chapa', 'estrutura metálica' — leads quentes, intent alto. Meta Ads pra remarketing.",
     "buyer_persona": "Comprador industrial / engenheiro de manutenção precisando de fornecedor próximo de fábrica.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 19,
@@ -1415,7 +1433,8 @@
     "ads_estrategia": "Google Ads local (raio de 30km) + Google Meu Negócio otimizado. Foco em 'tornearia [bairro]', 'usinagem peça'.",
     "buyer_persona": "Manutenção de fábrica / mecânico / pequena indústria precisando peça pontual.",
     "receita_trafego_mes": 500,
-    "receita_recorrente_mes": 650
+    "receita_recorrente_mes": 650,
+    "mockup_img": "mockups/servicos_local.png"
   },
   {
     "rank": 20,
@@ -1494,7 +1513,8 @@
     "ads_estrategia": "Google Ads B2B + LinkedIn Ads. Termos: 'fabricante de [produto plástico]', 'injeção plástica sob medida'.",
     "buyer_persona": "Comprador de embalagem / desenvolvedor de produto B2B.",
     "receita_trafego_mes": 1000,
-    "receita_recorrente_mes": 1200
+    "receita_recorrente_mes": 1200,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 21,
@@ -1574,7 +1594,8 @@
     "ads_estrategia": "Google Ads em palavras-chave específicas: 'metalúrgica [cidade]', 'corte e dobra de chapa', 'estrutura metálica' — leads quentes, intent alto. Meta Ads pra remarketing.",
     "buyer_persona": "Comprador industrial / engenheiro de manutenção precisando de fornecedor próximo de fábrica.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 22,
@@ -1653,7 +1674,8 @@
     "ads_estrategia": "Meta Ads (Instagram pesado em beauty) + Google Ads. SEO em 'terceirização cosmético'.",
     "buyer_persona": "Empreendedor de marca cosmética buscando terceirizar produção.",
     "receita_trafego_mes": 1200,
-    "receita_recorrente_mes": 1400
+    "receita_recorrente_mes": 1400,
+    "mockup_img": "mockups/showroom_visual.png"
   },
   {
     "rank": 23,
@@ -1704,7 +1726,8 @@
     "ads_estrategia": "Google Ads em palavras-chave específicas: 'metalúrgica [cidade]', 'corte e dobra de chapa', 'estrutura metálica' — leads quentes, intent alto. Meta Ads pra remarketing.",
     "buyer_persona": "Comprador industrial / engenheiro de manutenção precisando de fornecedor próximo de fábrica.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 24,
@@ -1754,7 +1777,8 @@
     "ads_estrategia": "Google Ads + Meta Ads (Instagram). Foco em B2B confecção.",
     "buyer_persona": "Comprador de confecção / criador de marca pesquisando tecido.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/showroom_visual.png"
   },
   {
     "rank": 25,
@@ -1832,7 +1856,8 @@
     "ads_estrategia": "Google Ads B2B + Meta Ads pra revendedor.",
     "buyer_persona": "Comprador de hospital / facility / distribuidor de limpeza.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 950
+    "receita_recorrente_mes": 950,
+    "mockup_img": "mockups/ecommerce_b2b.png"
   },
   {
     "rank": 26,
@@ -1911,7 +1936,8 @@
     "ads_estrategia": "Google Shopping pra produtos físicos. Meta Ads (carrossel) pra B2B com remarketing em quem visitou catálogo.",
     "buyer_persona": "Comprador B2B / lojista / distribuidor pesquisando fornecedor.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 27,
@@ -1990,7 +2016,8 @@
     "ads_estrategia": "Google Ads local + Google Meu Negócio. Foco em buscas de urgência ('retífica motor diesel hoje').",
     "buyer_persona": "Frotista, motorista de caminhão, oficina mecânica.",
     "receita_trafego_mes": 400,
-    "receita_recorrente_mes": 550
+    "receita_recorrente_mes": 550,
+    "mockup_img": "mockups/servicos_local.png"
   },
   {
     "rank": 28,
@@ -2069,7 +2096,8 @@
     "ads_estrategia": "Google Ads local (raio de 30km) + Google Meu Negócio otimizado. Foco em 'tornearia [bairro]', 'usinagem peça'.",
     "buyer_persona": "Manutenção de fábrica / mecânico / pequena indústria precisando peça pontual.",
     "receita_trafego_mes": 500,
-    "receita_recorrente_mes": 650
+    "receita_recorrente_mes": 650,
+    "mockup_img": "mockups/servicos_local.png"
   },
   {
     "rank": 29,
@@ -2149,7 +2177,8 @@
     "ads_estrategia": "Google Ads em palavras-chave específicas: 'metalúrgica [cidade]', 'corte e dobra de chapa', 'estrutura metálica' — leads quentes, intent alto. Meta Ads pra remarketing.",
     "buyer_persona": "Comprador industrial / engenheiro de manutenção precisando de fornecedor próximo de fábrica.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 30,
@@ -2228,7 +2257,8 @@
     "ads_estrategia": "Google Ads + Meta Ads B2B. Remarketing forte (cliente compara várias).",
     "buyer_persona": "Comprador / supply chain de marca consumidor pesquisando embalagem.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 31,
@@ -2279,7 +2309,8 @@
     "ads_estrategia": "Google Ads em palavras-chave específicas: 'metalúrgica [cidade]', 'corte e dobra de chapa', 'estrutura metálica' — leads quentes, intent alto. Meta Ads pra remarketing.",
     "buyer_persona": "Comprador industrial / engenheiro de manutenção precisando de fornecedor próximo de fábrica.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 32,
@@ -2363,7 +2394,8 @@
     "ads_estrategia": "Google Ads + LinkedIn Ads (B2B alimento). SEO local pra varejo da região.",
     "buyer_persona": "Comprador de varejo / distribuidor / pequeno mercado regional.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/showroom_visual.png"
   },
   {
     "rank": 33,
@@ -2446,7 +2478,8 @@
     "ads_estrategia": "Google Ads B2B + LinkedIn Ads. Foco em palavras técnicas (NBR, classes ABNT).",
     "buyer_persona": "Engenheiro estrutural / comprador construção / metalúrgica grande.",
     "receita_trafego_mes": 1500,
-    "receita_recorrente_mes": 1750
+    "receita_recorrente_mes": 1750,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 34,
@@ -2525,7 +2558,8 @@
     "ads_estrategia": "Google Ads termos técnicos + Google Shopping.",
     "buyer_persona": "Comprador industrial / mecânico / engenheiro de processo.",
     "receita_trafego_mes": 1000,
-    "receita_recorrente_mes": 1200
+    "receita_recorrente_mes": 1200,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 35,
@@ -2604,7 +2638,8 @@
     "ads_estrategia": "Google Ads premium (CPC alto, lead alto valor) + LinkedIn Ads pra engenheiros de produto.",
     "buyer_persona": "Engenheiro OEM / comprador de peça fundida especificada.",
     "receita_trafego_mes": 1500,
-    "receita_recorrente_mes": 1750
+    "receita_recorrente_mes": 1750,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 36,
@@ -2683,7 +2718,8 @@
     "ads_estrategia": "Google Ads B2B + LinkedIn Ads. Termos: 'fabricante de [produto plástico]', 'injeção plástica sob medida'.",
     "buyer_persona": "Comprador de embalagem / desenvolvedor de produto B2B.",
     "receita_trafego_mes": 1000,
-    "receita_recorrente_mes": 1200
+    "receita_recorrente_mes": 1200,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 37,
@@ -2733,7 +2769,8 @@
     "ads_estrategia": "Google Shopping pra produtos físicos. Meta Ads (carrossel) pra B2B com remarketing em quem visitou catálogo.",
     "buyer_persona": "Comprador B2B / lojista / distribuidor pesquisando fornecedor.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 38,
@@ -2811,7 +2848,8 @@
     "ads_estrategia": "Não aplicar — é concorrente.",
     "buyer_persona": "Concorrente direto.",
     "receita_trafego_mes": 0,
-    "receita_recorrente_mes": 0
+    "receita_recorrente_mes": 0,
+    "mockup_img": "mockups/corporate.png"
   },
   {
     "rank": 39,
@@ -2891,7 +2929,8 @@
     "ads_estrategia": "Google Ads em palavras-chave específicas: 'metalúrgica [cidade]', 'corte e dobra de chapa', 'estrutura metálica' — leads quentes, intent alto. Meta Ads pra remarketing.",
     "buyer_persona": "Comprador industrial / engenheiro de manutenção precisando de fornecedor próximo de fábrica.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 40,
@@ -2969,7 +3008,8 @@
     "ads_estrategia": "Google Ads local + Google Meu Negócio. SEO local forte.",
     "buyer_persona": "Manutenção urgente / construção / indústria precisando solda emergencial.",
     "receita_trafego_mes": 400,
-    "receita_recorrente_mes": 550
+    "receita_recorrente_mes": 550,
+    "mockup_img": "mockups/servicos_local.png"
   },
   {
     "rank": 41,
@@ -3018,7 +3058,8 @@
     "ads_estrategia": "Google Ads B2B + LinkedIn Ads. Foco em palavras técnicas (NBR, classes ABNT).",
     "buyer_persona": "Engenheiro estrutural / comprador construção / metalúrgica grande.",
     "receita_trafego_mes": 1500,
-    "receita_recorrente_mes": 1750
+    "receita_recorrente_mes": 1750,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 42,
@@ -3068,7 +3109,8 @@
     "ads_estrategia": "Google Ads + LinkedIn Ads (B2B alimento). SEO local pra varejo da região.",
     "buyer_persona": "Comprador de varejo / distribuidor / pequeno mercado regional.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/showroom_visual.png"
   },
   {
     "rank": 43,
@@ -3117,7 +3159,8 @@
     "ads_estrategia": "Google Ads + Meta Ads. Foco local.",
     "buyer_persona": "Comprador B2B local pesquisando fornecedor.",
     "receita_trafego_mes": 600,
-    "receita_recorrente_mes": 750
+    "receita_recorrente_mes": 750,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 44,
@@ -3197,7 +3240,8 @@
     "ads_estrategia": "Google Ads em palavras-chave específicas: 'metalúrgica [cidade]', 'corte e dobra de chapa', 'estrutura metálica' — leads quentes, intent alto. Meta Ads pra remarketing.",
     "buyer_persona": "Comprador industrial / engenheiro de manutenção precisando de fornecedor próximo de fábrica.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 45,
@@ -3276,7 +3320,8 @@
     "ads_estrategia": "Google Ads B2B + Google Shopping pra construção. SEO local forte.",
     "buyer_persona": "Comprador de construtora / metalúrgica menor / serralheiro.",
     "receita_trafego_mes": 1500,
-    "receita_recorrente_mes": 1750
+    "receita_recorrente_mes": 1750,
+    "mockup_img": "mockups/ecommerce_b2b.png"
   },
   {
     "rank": 46,
@@ -3354,7 +3399,8 @@
     "ads_estrategia": "Google Ads B2B + Meta Ads pra revendedor.",
     "buyer_persona": "Comprador de hospital / facility / distribuidor de limpeza.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 950
+    "receita_recorrente_mes": 950,
+    "mockup_img": "mockups/ecommerce_b2b.png"
   },
   {
     "rank": 47,
@@ -3434,7 +3480,8 @@
     "ads_estrategia": "Google Ads em palavras-chave específicas: 'metalúrgica [cidade]', 'corte e dobra de chapa', 'estrutura metálica' — leads quentes, intent alto. Meta Ads pra remarketing.",
     "buyer_persona": "Comprador industrial / engenheiro de manutenção precisando de fornecedor próximo de fábrica.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 48,
@@ -3484,7 +3531,8 @@
     "ads_estrategia": "Google Ads em part numbers específicos + remarketing.",
     "buyer_persona": "Engenheiro de manutenção / técnico de produção buscando peça de reposição específica.",
     "receita_trafego_mes": 1500,
-    "receita_recorrente_mes": 1800
+    "receita_recorrente_mes": 1800,
+    "mockup_img": "mockups/ecommerce_b2b.png"
   },
   {
     "rank": 49,
@@ -3563,7 +3611,8 @@
     "ads_estrategia": "Google Shopping pra produtos físicos. Meta Ads (carrossel) pra B2B com remarketing em quem visitou catálogo.",
     "buyer_persona": "Comprador B2B / lojista / distribuidor pesquisando fornecedor.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   },
   {
     "rank": 50,
@@ -3642,6 +3691,7 @@
     "ads_estrategia": "Google Shopping pra produtos físicos. Meta Ads (carrossel) pra B2B com remarketing em quem visitou catálogo.",
     "buyer_persona": "Comprador B2B / lojista / distribuidor pesquisando fornecedor.",
     "receita_trafego_mes": 800,
-    "receita_recorrente_mes": 1000
+    "receita_recorrente_mes": 1000,
+    "mockup_img": "mockups/catalogo_industrial.png"
   }
 ]

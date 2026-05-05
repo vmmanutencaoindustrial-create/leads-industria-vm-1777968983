@@ -324,6 +324,25 @@
     cursor: pointer;
   }
   .msg-btn:hover { opacity: 0.85; }
+  .mockup-real {
+    border: 2px solid var(--yellow);
+    border-radius: 12px;
+    overflow: hidden;
+    margin: 12px 0;
+    box-shadow: 0 8px 24px rgba(255,215,0,0.15);
+    cursor: zoom-in;
+    transition: transform 0.2s;
+  }
+  .mockup-real:hover { transform: scale(1.02); }
+  .mockup-real img { width: 100%; display: block; }
+  .mockup-real-label {
+    background: var(--yellow);
+    color: #000;
+    font-weight: 700;
+    font-size: 0.75rem;
+    padding: 6px 12px;
+    text-align: center;
+  }
   .mockup {
     border: 2px solid var(--border);
     border-radius: 8px;
@@ -550,6 +569,12 @@ function render() {
         <div class="det-body">
           <p><strong>Tipo de site recomendado:</strong> ${escapeHTML(l.tipo_site || '—')}</p>
           <p><strong>Domínio sugerido:</strong> <span class="domain">${escapeHTML(l.dominio_sugerido || '')}</span></p>
+          ${l.mockup_img ? `
+          <div class="mockup-real" onclick="window.open('${escapeHTML(l.mockup_img)}', '_blank')">
+            <div class="mockup-real-label">🎨 Visual proposto (clique pra ampliar)</div>
+            <img src="${escapeHTML(l.mockup_img)}" alt="Mockup do site para ${escapeHTML(l.nome)}" loading="lazy">
+          </div>
+          ` : ''}
           <div class="mockup">
             <div class="mockup-bar">
               <span class="mockup-dot r"></span>
