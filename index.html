@@ -268,6 +268,151 @@
     font-style: italic;
     color: #ddd;
   }
+  .receita {
+    background: linear-gradient(135deg, #0d2818, #143828);
+    border: 1px solid #1f5a3d;
+    padding: 10px 12px;
+    border-radius: 8px;
+    margin: 4px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.85rem;
+  }
+  .receita-label { color: #9be6c2; }
+  .receita-valor { color: #4ade80; font-weight: 800; font-size: 1.1rem; }
+  .msg-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 12px;
+    margin: 8px 0;
+    font-size: 0.82rem;
+    line-height: 1.5;
+  }
+  .msg-card h4 {
+    color: var(--green);
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+    letter-spacing: 0.5px;
+  }
+  .msg-card pre {
+    white-space: pre-wrap;
+    font-family: inherit;
+    color: #ddd;
+    margin-bottom: 8px;
+  }
+  .msg-actions {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .msg-btn {
+    background: var(--green);
+    color: white;
+    text-decoration: none;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+  .msg-btn.copy {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    color: var(--text);
+    cursor: pointer;
+  }
+  .msg-btn:hover { opacity: 0.85; }
+  .mockup {
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+    background: #fff;
+    color: #222;
+    font-size: 0.7rem;
+    margin: 8px 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  }
+  .mockup-bar {
+    background: #f0f0f0;
+    padding: 6px 8px;
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+  }
+  .mockup-dot { width: 10px; height: 10px; border-radius: 50%; }
+  .mockup-dot.r { background: #ff5f56; }
+  .mockup-dot.y { background: #ffbd2e; }
+  .mockup-dot.g { background: #27c93f; }
+  .mockup-url {
+    flex: 1;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 2px 8px;
+    margin-left: 8px;
+    font-size: 0.65rem;
+    color: #666;
+  }
+  .mockup-body { padding: 12px; }
+  .mockup-hero {
+    background: #1a1a1a;
+    color: white;
+    padding: 14px 12px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+  }
+  .mockup-hero h2 { font-size: 0.95rem; margin-bottom: 4px; }
+  .mockup-hero p { font-size: 0.65rem; opacity: 0.85; }
+  .mockup-hero .cta {
+    display: inline-block;
+    background: var(--yellow);
+    color: #000;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-weight: 700;
+    margin-top: 6px;
+    font-size: 0.65rem;
+  }
+  .mockup-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4px;
+    margin: 6px 0;
+  }
+  .mockup-cell {
+    background: #f0f0f0;
+    aspect-ratio: 1;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.55rem;
+    color: #888;
+    font-weight: 600;
+  }
+  .mockup-foot {
+    background: #1a1a1a;
+    color: white;
+    padding: 6px 8px;
+    font-size: 0.6rem;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 6px;
+  }
+  .total-receita {
+    background: linear-gradient(135deg, #0d3a1d, #1a5a32);
+    color: #4ade80;
+    padding: 12px 18px;
+    border-radius: 12px;
+    margin-top: 12px;
+    display: inline-block;
+    border: 1px solid #2c8050;
+    font-weight: 700;
+  }
+  .total-receita span { color: #fff; font-size: 1.5rem; display: block; margin-top: 2px; }
   footer {
     text-align: center;
     padding: 32px 24px;
@@ -294,12 +439,17 @@
 
 <header>
   <h1>📇 50 Indústrias SEM SITE — Grande SP</h1>
-  <p>Lista curada · 2026-05-05 · ranqueada por reputação no Google</p>
+  <p>🎯 Pipeline de prospecção pra <strong style="color:var(--yellow)">Site + Tráfego Pago + Google Ads</strong> · Atendimento: <strong>Eric</strong></p>
   <div class="stats">
     <div class="stat"><strong>50</strong> empresas</div>
     <div class="stat"><strong>20</strong> 📱 celular</div>
     <div class="stat"><strong>30</strong> ☎️ fixo</div>
     <div class="stat"><strong>4</strong> cidades</div>
+  </div>
+  <div class="total-receita">
+    💰 Receita potencial — Site + Tráfego Pago
+    <span>R$ 715.200/ano</span>
+    <small style="display:block;font-weight:400;opacity:0.85;margin-top:4px;color:#9be6c2;">10% conversão = R$ 71.520/ano · R$ 4.920/mês recorrente · ticket médio R$ 14.304/lead</small>
   </div>
 </header>
 
@@ -329,7 +479,7 @@
 
 <footer>
   <p>Lista gerada via Apify Google Maps Crawler · Filtros: indústria · sem site · com telefone · região Grande SP</p>
-  <p style="margin-top:8px;">Para uso comercial da <strong style="color:var(--yellow)">VM Manutenção Industrial</strong> — Barueri/SP</p>
+  <p style="margin-top:8px;">Pipeline de prospecção <strong style="color:var(--yellow)">Site + Tráfego Pago</strong> — Atendimento Eric</p>
 </footer>
 
 <script>
@@ -394,10 +544,49 @@ function render() {
         ${l.tags && l.tags.length ? `<div class="tags">${l.tags.slice(0,5).map(t=>`<span class="tag">${escapeHTML(t.title)} (${t.count})</span>`).join('')}</div>` : ''}
       </div>
 
+      ${l.site_recomendado ? `
+      <details class="site-block" open>
+        <summary>🌐 Site + Tráfego Pago — OFERTA PRINCIPAL</summary>
+        <div class="det-body">
+          <p><strong>Tipo de site recomendado:</strong> ${escapeHTML(l.tipo_site || '—')}</p>
+          <p><strong>Domínio sugerido:</strong> <span class="domain">${escapeHTML(l.dominio_sugerido || '')}</span></p>
+          <div class="mockup">
+            <div class="mockup-bar">
+              <span class="mockup-dot r"></span>
+              <span class="mockup-dot y"></span>
+              <span class="mockup-dot g"></span>
+              <span class="mockup-url">🔒 ${escapeHTML(l.dominio_sugerido || '')}</span>
+            </div>
+            <div class="mockup-body">
+              <div class="mockup-hero">
+                <h2>${escapeHTML(l.nome)}</h2>
+                <p>${escapeHTML(l.categoria || '')} · ${escapeHTML(l.cidade || '')}/SP</p>
+                <span class="cta">Solicitar Orçamento</span>
+              </div>
+              <div class="mockup-grid">
+                <div class="mockup-cell">PRODUTO</div>
+                <div class="mockup-cell">PRODUTO</div>
+                <div class="mockup-cell">PRODUTO</div>
+                <div class="mockup-cell">PROC.</div>
+                <div class="mockup-cell">CASES</div>
+                <div class="mockup-cell">SOBRE</div>
+              </div>
+              <div class="mockup-foot">📞 ${escapeHTML(l.telefone || '')} · 📍 ${escapeHTML(l.cidade || '')}</div>
+            </div>
+          </div>
+          <p><strong>📋 O que o site precisa ter:</strong></p>
+          <p>${escapeHTML(l.site_recomendado)}</p>
+          ${l.ads_estrategia ? `<p><strong>📊 Estratégia de tráfego pago:</strong></p><p>${escapeHTML(l.ads_estrategia)}</p>` : ''}
+          ${l.buyer_persona ? `<p><strong>👤 Buyer persona alvo:</strong></p><p>${escapeHTML(l.buyer_persona)}</p>` : ''}
+          <div class="pitch-block">"${escapeHTML(l.pitch_site)}"</div>
+        </div>
+      </details>` : ''}
+
       ${l.pitch_manutencao ? `
       <details>
-        <summary>🔧 Pitch Manutenção Industrial</summary>
+        <summary>🔧 Pitch alternativo: Manutenção Industrial (cross-sell)</summary>
         <div class="det-body">
+          <p style="color:#888;font-size:0.78rem;margin-bottom:6px;">⚠️ Use só se cliente já tem site OU não tem interesse em marketing digital. Foco principal é Site + Tráfego.</p>
           <div class="pitch-block">"${escapeHTML(l.pitch_manutencao)}"</div>
           ${l.manutencao_dores && l.manutencao_dores.length ? `
             <p><strong>Dores típicas:</strong></p>
@@ -406,15 +595,47 @@ function render() {
         </div>
       </details>` : ''}
 
-      ${l.site_recomendado ? `
-      <details class="site-block">
-        <summary>🌐 Sugestão de Site (cross-sell)</summary>
+      ${l.receita_ano1_fmt ? `
+      <details>
+        <summary>💰 Receita Potencial — ${escapeHTML(l.receita_ano1_fmt)}/ano</summary>
         <div class="det-body">
-          <p><strong>Tipo recomendado:</strong> ${escapeHTML(l.tipo_site || '—')}</p>
-          <p><strong>Domínio sugerido:</strong> <span class="domain">${escapeHTML(l.dominio_sugerido || '')}</span></p>
-          <p><strong>O que precisa ter:</strong></p>
-          <p>${escapeHTML(l.site_recomendado)}</p>
-          <div class="pitch-block">"${escapeHTML(l.pitch_site)}"</div>
+          <div class="receita">
+            <span class="receita-label">Site (setup único):</span>
+            <span class="receita-valor">R$ ${(l.receita_site_setup || 0).toLocaleString('pt-BR')}</span>
+          </div>
+          <div class="receita">
+            <span class="receita-label">Tráfego pago + gestão/mês:</span>
+            <span class="receita-valor">R$ ${(l.receita_trafego_mes || 0).toLocaleString('pt-BR')}</span>
+          </div>
+          <div class="receita">
+            <span class="receita-label">Manutenção site/mês:</span>
+            <span class="receita-valor">R$ ${(l.receita_site_mes || 0).toLocaleString('pt-BR')}</span>
+          </div>
+          <div class="receita" style="background:linear-gradient(135deg,#1a3a2d,#1f5a45);border-color:#2c8050;">
+            <span class="receita-label" style="color:#9be6c2;">Recorrente mensal:</span>
+            <span class="receita-valor" style="color:#4ade80;">R$ ${(l.receita_recorrente_mes || 0).toLocaleString('pt-BR')}</span>
+          </div>
+          <div class="receita" style="background:linear-gradient(135deg,#3a2a0d,#5a4218);border-color:#8a6a2a;">
+            <span class="receita-label" style="color:#ffe6a0;">Total ano 1:</span>
+            <span class="receita-valor" style="color:#ffd700;">${escapeHTML(l.receita_ano1_fmt)}</span>
+          </div>
+        </div>
+      </details>` : ''}
+
+      ${l.mensagens && l.mensagens.length ? `
+      <details class="site-block" style="background:#1a0d20;border-color:#3d1f54;">
+        <summary style="color:#c084fc;">📩 Sequência de 3 Mensagens</summary>
+        <div class="det-body">
+          ${l.mensagens.map((m, i) => `
+            <div class="msg-card">
+              <h4>Mensagem ${i+1} ${i===0?'(1º contato)':i===1?'(7 dias depois)':'(14 dias depois)'}</h4>
+              <pre>${escapeHTML(m)}</pre>
+              <div class="msg-actions">
+                <a class="msg-btn" href="${escapeHTML(l.msg_links?.[i] || l.whatsapp)}" target="_blank">💬 Enviar pelo WhatsApp</a>
+                <button class="msg-btn copy" data-msg="${i}-${l.rank}" data-text="${escapeHTML(m)}">📋 Copiar</button>
+              </div>
+            </div>
+          `).join('')}
         </div>
       </details>` : ''}
 
@@ -424,6 +645,18 @@ function render() {
       </div>
     </div>
   `).join('');
+
+  // bind copy buttons
+  document.querySelectorAll('.msg-btn.copy').forEach(btn => {
+    btn.addEventListener('click', e => {
+      const txt = btn.dataset.text || '';
+      navigator.clipboard.writeText(txt).then(() => {
+        const orig = btn.textContent;
+        btn.textContent = '✅ Copiado!';
+        setTimeout(() => btn.textContent = orig, 1500);
+      });
+    });
+  });
 }
 
 fetch('leads.json')
