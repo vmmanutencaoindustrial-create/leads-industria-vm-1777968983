@@ -77,7 +77,17 @@
       "Blocos Balbinos",
       "Quitaúna Fábrica de Blocos e Pisos",
       "Fábrica de blocos santa dolores"
-    ]
+    ],
+    "dominio_sugerido": "gcblocosdeconcreto.com.br",
+    "tipo_site": "Showroom + catálogo",
+    "site_recomendado": "Site showroom: portfolio de produtos com fotos profissionais, processo produtivo, certificações, formulário de cotação.",
+    "manutencao_dores": [
+      "Linha de produção tem cascata: 1 máquina parada para tudo",
+      "Compressores, esteiras, motores são pontos comuns de falha"
+    ],
+    "pitch_manutencao": "Linha de produção é cascata: 1 máquina para = todas param. Visita técnica gratuita pra mapear os 5 equipamentos críticos e montar plano preventivo mensal.",
+    "pitch_site": "Sua produção é boa mas o cliente só te acha por boca a boca. Site showroom (R$ 2,5k) com fotos dos produtos triplica orçamento via WhatsApp em 60 dias.",
+    "score_vm": 10
   },
   {
     "rank": 2,
@@ -133,7 +143,17 @@
       "Retífica De Motores Padrão",
       "Centro Automotivo e Retifica de Motores Dorival",
       "Retifica Forte"
-    ]
+    ],
+    "dominio_sugerido": "retificademotorespadraode.com.br",
+    "tipo_site": "Site de serviços",
+    "site_recomendado": "Site de serviços: o que faz (retífica, ajuste, montagem), tipos de motor atendidos, prazo, fotos antes/depois, depoimentos.",
+    "manutencao_dores": [
+      "Equipamentos de retífica e bancada têm desgaste constante",
+      "Compressores e elevadores precisam de manutenção periódica obrigatória"
+    ],
+    "pitch_manutencao": "Equipamentos de retífica e bancada degradam — manutenção preventiva mensal evita parada inesperada e mantém precisão dimensional.",
+    "pitch_site": "Cliente busca 'retífica de motor [cidade]' no Google. Sem site, ele acha o concorrente. Site (R$ 1,5k) garante presença.",
+    "score_vm": 10
   },
   {
     "rank": 3,
@@ -184,7 +204,17 @@
       "MTS - Manoel Torres Ferramentaria",
       "Zona Oeste Embalagens",
       "MS Embalagens"
-    ]
+    ],
+    "dominio_sugerido": "mtszembalagensplasticas.com.br",
+    "tipo_site": "Showroom + catálogo",
+    "site_recomendado": "Site showroom: portfolio de produtos com fotos profissionais, processo produtivo, certificações, formulário de cotação.",
+    "manutencao_dores": [
+      "Linha de produção tem cascata: 1 máquina parada para tudo",
+      "Compressores, esteiras, motores são pontos comuns de falha"
+    ],
+    "pitch_manutencao": "Linha de produção é cascata: 1 máquina para = todas param. Visita técnica gratuita pra mapear os 5 equipamentos críticos e montar plano preventivo mensal.",
+    "pitch_site": "Sua produção é boa mas o cliente só te acha por boca a boca. Site showroom (R$ 2,5k) com fotos dos produtos triplica orçamento via WhatsApp em 60 dias.",
+    "score_vm": 9
   },
   {
     "rank": 4,
@@ -240,7 +270,17 @@
       "Chicão Escapamentos",
       "Top Escap",
       "Posto de Escapamentos Coyote"
-    ]
+    ],
+    "dominio_sugerido": "postodeescapantosbeleza.com.br",
+    "tipo_site": "Site de serviços",
+    "site_recomendado": "Site de serviços: o que faz (retífica, ajuste, montagem), tipos de motor atendidos, prazo, fotos antes/depois, depoimentos.",
+    "manutencao_dores": [
+      "Equipamentos de retífica e bancada têm desgaste constante",
+      "Compressores e elevadores precisam de manutenção periódica obrigatória"
+    ],
+    "pitch_manutencao": "Equipamentos de retífica e bancada degradam — manutenção preventiva mensal evita parada inesperada e mantém precisão dimensional.",
+    "pitch_site": "Cliente busca 'retífica de motor [cidade]' no Google. Sem site, ele acha o concorrente. Site (R$ 1,5k) garante presença.",
+    "score_vm": 8
   },
   {
     "rank": 5,
@@ -271,7 +311,17 @@
       "Fabrica de Gelo Zero Grau",
       "Gelo Flex ( gelo em cubo)",
       "Gelo Blue Ice"
-    ]
+    ],
+    "dominio_sugerido": "maisgelo-fabricaosco.com.br",
+    "tipo_site": "Showroom + catálogo",
+    "site_recomendado": "Site showroom: portfolio de produtos com fotos profissionais, processo produtivo, certificações, formulário de cotação.",
+    "manutencao_dores": [
+      "Linha de produção tem cascata: 1 máquina parada para tudo",
+      "Compressores, esteiras, motores são pontos comuns de falha"
+    ],
+    "pitch_manutencao": "Linha de produção é cascata: 1 máquina para = todas param. Visita técnica gratuita pra mapear os 5 equipamentos críticos e montar plano preventivo mensal.",
+    "pitch_site": "Sua produção é boa mas o cliente só te acha por boca a boca. Site showroom (R$ 2,5k) com fotos dos produtos triplica orçamento via WhatsApp em 60 dias.",
+    "score_vm": 8
   },
   {
     "rank": 6,
@@ -322,7 +372,16 @@
       "MECANICA DE CAMINHÕES E TRATORES, CALDEIRARIA E SOLDA",
       "Mz ferramentas",
       "JRGARAGE"
-    ]
+    ],
+    "dominio_sugerido": "magmaget-soldaecanicasp.com.br",
+    "tipo_site": "Site profissional concorrente",
+    "site_recomendado": "Site institucional + área de atuação + cases. (Concorrente direto da VM — abordar como parceria de regional.)",
+    "manutencao_dores": [
+      "Eles fazem manutenção, mas têm máquinas próprias (oficina)"
+    ],
+    "pitch_manutencao": "Não são lead diretos — são CONCORRENTES. Abordar como possível parceria/subcontratação em demandas que excedem capacidade deles.",
+    "pitch_site": "Concorrente — pular ou abordar como parceria.",
+    "score_vm": 6
   },
   {
     "rank": 7,
@@ -344,7 +403,17 @@
       "Ibae-Indústria Brasileira de Alimentos Especiais",
       "Rochester Indústria Comércio Têxtil",
       "BrasALPLA Brasil Indústria de Embalagens Ltda."
-    ]
+    ],
+    "dominio_sugerido": "iwayalinticia.com.br",
+    "tipo_site": "Catálogo + fichas técnicas",
+    "site_recomendado": "Catálogo de produtos com fichas técnicas, certificações sanitárias, capacidade de entrega.",
+    "manutencao_dores": [
+      "Câmaras frias, esteiras e empacotadoras",
+      "Refrigeração industrial é manutenção crítica"
+    ],
+    "pitch_manutencao": "Câmara fria parada = produto perdido. Manutenção mensal de refrigeração industrial + plano de contingência.",
+    "pitch_site": "Distribuidor B2B pesquisa fornecedor online. Site catálogo R$ 2,5k tira você da invisibilidade.",
+    "score_vm": 7
   },
   {
     "rank": 8,
@@ -395,7 +464,17 @@
       "Elcoscomesti os",
       "APCS Ind de Cosmeticos ltda",
       "Evocolor industria e comercio de cosméticos"
-    ]
+    ],
+    "dominio_sugerido": "elcosedeprodutoscosticos.com.br",
+    "tipo_site": "Site institucional + ANVISA",
+    "site_recomendado": "Site institucional + portfolio de marcas/produtos + certificações ANVISA + contato terceirização.",
+    "manutencao_dores": [
+      "Misturadores, reatores e envasadoras",
+      "Conformidade ANVISA exige manutenção documentada"
+    ],
+    "pitch_manutencao": "Cosmético precisa de manutenção rastreável (ANVISA). Plano com checklist + relatório mensal pra você ter compliance.",
+    "pitch_site": "Cliente B2B (drogaria, distribuidor) só fecha com fabricante que tem site. R$ 2,5k pra abrir esse canal.",
+    "score_vm": 9
   },
   {
     "rank": 9,
@@ -451,7 +530,17 @@
         "count": 2
       }
     ],
-    "concorrentes": []
+    "concorrentes": [],
+    "dominio_sugerido": "byticousinagecnc.com.br",
+    "tipo_site": "Catálogo técnico",
+    "site_recomendado": "Catálogo técnico: tipos de processos (corte, dobra, usinagem), materiais trabalhados, tolerâncias atendidas, casos de cliente.",
+    "manutencao_dores": [
+      "Máquinas CNC e tornos exigem manutenção preditiva (vibração)",
+      "Hidráulica e pneumática têm vazamentos que travam produção"
+    ],
+    "pitch_manutencao": "Máquinas CNC e centro de usinagem precisam manutenção preditiva. Análise de vibração antecipa quebra em 30-60 dias — saia do reativo, evite peça parada.",
+    "pitch_site": "Empresa industrial sem site perde 70% dos orçamentos B2B. Site técnico R$ 2,5k mostra capacidade (tolerâncias, prazos) e fecha mais.",
+    "score_vm": 10
   },
   {
     "rank": 10,
@@ -478,7 +567,17 @@
       "Usinagem Itapevi",
       "Alessandro Ribeiro Souza Retífica-ME",
       "Centro Automotivo e Retifica de Motores Dorival"
-    ]
+    ],
+    "dominio_sugerido": "sui-servicodeusinagemauto.com.br",
+    "tipo_site": "Site de serviços + casos",
+    "site_recomendado": "Site + galeria de motores reconstruídos, prazo médio, garantia, contato.",
+    "manutencao_dores": [
+      "Bancadas de teste e equipamentos de medição",
+      "Tornos e retíficas são pesados"
+    ],
+    "pitch_manutencao": "Equipamento de retífica e bancada precisa precisão dimensional — manutenção preditiva + calibragem mantém padrão.",
+    "pitch_site": "Cliente busca 'reconstrução motor [marca]' no Google. R$ 1,8k pra site e captar essa demanda.",
+    "score_vm": 8
   },
   {
     "rank": 11,
@@ -538,7 +637,17 @@
       "AG BLOCOS",
       "Bloquete e Pisos Intertravados - Surreal Bloquete - Instalação de Pisos de concreto em São Paulo - Vendas de Piso",
       "Alfamix Concreto"
-    ]
+    ],
+    "dominio_sugerido": "alfaartefatosdeconcreto.com.br",
+    "tipo_site": "Showroom + catálogo",
+    "site_recomendado": "Site showroom: portfolio de produtos com fotos profissionais, processo produtivo, certificações, formulário de cotação.",
+    "manutencao_dores": [
+      "Linha de produção tem cascata: 1 máquina parada para tudo",
+      "Compressores, esteiras, motores são pontos comuns de falha"
+    ],
+    "pitch_manutencao": "Linha de produção é cascata: 1 máquina para = todas param. Visita técnica gratuita pra mapear os 5 equipamentos críticos e montar plano preventivo mensal.",
+    "pitch_site": "Sua produção é boa mas o cliente só te acha por boca a boca. Site showroom (R$ 2,5k) com fotos dos produtos triplica orçamento via WhatsApp em 60 dias.",
+    "score_vm": 10
   },
   {
     "rank": 12,
@@ -585,7 +694,18 @@
       }
     ],
     "tags": [],
-    "concorrentes": []
+    "concorrentes": [],
+    "dominio_sugerido": "talurgicaovitor.com.br",
+    "tipo_site": "Catálogo industrial",
+    "site_recomendado": "Site catálogo (1 página): produtos fabricados, processos disponíveis (corte, dobra, solda), galeria de obras, ficha técnica em PDF, formulário de orçamento.",
+    "manutencao_dores": [
+      "Prensas, fornos, calandras param produção quando quebram",
+      "Solda elétrica e estruturas de alta carga têm fadiga",
+      "Motores trifásicos exigem termografia e análise de vibração"
+    ],
+    "pitch_manutencao": "Vocês têm máquinas pesadas que param produção quando falham. Posso fazer uma análise de vibração + termografia preventiva nos motores e prensas — em 1 visita identifico os 3 pontos que mais te dão prejuízo.",
+    "pitch_site": "Hoje você só aparece se o cliente já te conhece. Com um site simples (R$ 2k-3k, 1 semana), você pega clientes do Google buscando 'metalúrgica em [cidade]' — esse tráfego é puro lead qualificado.",
+    "score_vm": 10
   },
   {
     "rank": 13,
@@ -636,7 +756,16 @@
       "(R11) Ronaldo Luiz",
       "Flatec sistema de incêndio",
       "Grupo FVF - Tecnologia e Soluções"
-    ]
+    ],
+    "dominio_sugerido": "fgalindoequipantosis.com.br",
+    "tipo_site": "Site profissional concorrente",
+    "site_recomendado": "Site institucional + área de atuação + cases. (Concorrente direto da VM — abordar como parceria de regional.)",
+    "manutencao_dores": [
+      "Eles fazem manutenção, mas têm máquinas próprias (oficina)"
+    ],
+    "pitch_manutencao": "Não são lead diretos — são CONCORRENTES. Abordar como possível parceria/subcontratação em demandas que excedem capacidade deles.",
+    "pitch_site": "Concorrente — pular ou abordar como parceria.",
+    "score_vm": 5
   },
   {
     "rank": 14,
@@ -658,7 +787,17 @@
       "Perfect Car",
       "GT oficina mecânica",
       "G3 Funilaria e Pintura"
-    ]
+    ],
+    "dominio_sugerido": "gcar.com.br",
+    "tipo_site": "Site de serviços",
+    "site_recomendado": "Site de serviços: o que faz (retífica, ajuste, montagem), tipos de motor atendidos, prazo, fotos antes/depois, depoimentos.",
+    "manutencao_dores": [
+      "Equipamentos de retífica e bancada têm desgaste constante",
+      "Compressores e elevadores precisam de manutenção periódica obrigatória"
+    ],
+    "pitch_manutencao": "Equipamentos de retífica e bancada degradam — manutenção preventiva mensal evita parada inesperada e mantém precisão dimensional.",
+    "pitch_site": "Cliente busca 'retífica de motor [cidade]' no Google. Sem site, ele acha o concorrente. Site (R$ 1,5k) garante presença.",
+    "score_vm": 7
   },
   {
     "rank": 15,
@@ -709,7 +848,17 @@
       "Auto Funilaria e Pintura GG",
       "Funilaria e Pintura",
       "Oficina Edu William"
-    ]
+    ],
+    "dominio_sugerido": "gm.com.br",
+    "tipo_site": "Site de serviços",
+    "site_recomendado": "Site de serviços: o que faz (retífica, ajuste, montagem), tipos de motor atendidos, prazo, fotos antes/depois, depoimentos.",
+    "manutencao_dores": [
+      "Equipamentos de retífica e bancada têm desgaste constante",
+      "Compressores e elevadores precisam de manutenção periódica obrigatória"
+    ],
+    "pitch_manutencao": "Equipamentos de retífica e bancada degradam — manutenção preventiva mensal evita parada inesperada e mantém precisão dimensional.",
+    "pitch_site": "Cliente busca 'retífica de motor [cidade]' no Google. Sem site, ele acha o concorrente. Site (R$ 1,5k) garante presença.",
+    "score_vm": 9
   },
   {
     "rank": 16,
@@ -760,7 +909,16 @@
       "USIDIESEL RETIFICA DE MOTORES E COMPRESSORES E LOC LTDA ME",
       "Retifica de Motores Manchini",
       "Retífica de Motores Jocar"
-    ]
+    ],
+    "dominio_sugerido": "usicabretificamotoresdies.com.br",
+    "tipo_site": "E-commerce B2B",
+    "site_recomendado": "E-commerce ou catálogo com filtros por aplicação, marca, potência.",
+    "manutencao_dores": [
+      "Bancadas de teste e equipamentos de movimentação (talha, ponte)"
+    ],
+    "pitch_manutencao": "Bancada de teste e talha precisam manutenção segura (NR-12). Inspeção + laudo trimestral.",
+    "pitch_site": "Comprador B2B pesquisa motor por especificação. Sem site, você sai da equação. R$ 3k pra catálogo + filtros.",
+    "score_vm": 8
   },
   {
     "rank": 17,
@@ -782,7 +940,17 @@
       "ISAAÇO INDUSTRIA METALURGICA",
       "Rochester Indústria Comércio Têxtil",
       "Klustra Produtos de Limpeza e Higiene"
-    ]
+    ],
+    "dominio_sugerido": "fazeloiiprestacaoservicos.com.br",
+    "tipo_site": "Catálogo de ferramentas",
+    "site_recomendado": "Catálogo de ferramentas (tipo, dimensão, aplicação), instruções de uso, casos de cliente.",
+    "manutencao_dores": [
+      "Máquinas de afiação e tratamento térmico",
+      "CNC + retífica são equipamentos de alta precisão"
+    ],
+    "pitch_manutencao": "Sua ferramenta é precisa porque sua máquina é precisa. Manutenção preditiva mantém tolerância dimensional do produto final.",
+    "pitch_site": "Indústria compra ferramenta por especificação técnica. Sem site = sem disputa. R$ 2,5k pra catálogo + fichas técnicas.",
+    "score_vm": 9
   },
   {
     "rank": 18,
@@ -833,7 +1001,18 @@
       "Rematec Indústria Metalúrgica",
       "Lithe Indústria Metalúrgica",
       "Maxtec Indústria e Comércio Ltda."
-    ]
+    ],
+    "dominio_sugerido": "dinieper.com.br",
+    "tipo_site": "Catálogo industrial",
+    "site_recomendado": "Site catálogo (1 página): produtos fabricados, processos disponíveis (corte, dobra, solda), galeria de obras, ficha técnica em PDF, formulário de orçamento.",
+    "manutencao_dores": [
+      "Prensas, fornos, calandras param produção quando quebram",
+      "Solda elétrica e estruturas de alta carga têm fadiga",
+      "Motores trifásicos exigem termografia e análise de vibração"
+    ],
+    "pitch_manutencao": "Vocês têm máquinas pesadas que param produção quando falham. Posso fazer uma análise de vibração + termografia preventiva nos motores e prensas — em 1 visita identifico os 3 pontos que mais te dão prejuízo.",
+    "pitch_site": "Hoje você só aparece se o cliente já te conhece. Com um site simples (R$ 2k-3k, 1 semana), você pega clientes do Google buscando 'metalúrgica em [cidade]' — esse tráfego é puro lead qualificado.",
+    "score_vm": 9
   },
   {
     "rank": 19,
@@ -884,7 +1063,17 @@
       "Usinagem Itapevi",
       "KM Prestação de Serviços",
       "Ita escap"
-    ]
+    ],
+    "dominio_sugerido": "ita-usinagemcanica.com.br",
+    "tipo_site": "Site simples + portfolio",
+    "site_recomendado": "Site enxuto: o que faz, materiais (aço, alumínio, inox), peças que produz com fotos, prazo médio, contato.",
+    "manutencao_dores": [
+      "Tornos têm problemas de barramento, fuso e mancal",
+      "Análise de vibração antecipa rolamento batendo"
+    ],
+    "pitch_manutencao": "Torno parado é prejuízo direto. Fazemos análise de vibração + alinhamento a laser — antecipa quebra de fuso e rolamento em 2-3 meses.",
+    "pitch_site": "Site enxuto (R$ 1,5k, 5 dias) mostrando suas peças no Google = mais orçamento qualificado.",
+    "score_vm": 10
   },
   {
     "rank": 20,
@@ -935,7 +1124,17 @@
       "Plásticos Barueri",
       "JOTATEC IND E COMERCIO DE TELAS PLASTICAS",
       "JP PLAST Indústria de Plásticos"
-    ]
+    ],
+    "dominio_sugerido": "rototechnikmateriaisplast.com.br",
+    "tipo_site": "Catálogo + linha técnica",
+    "site_recomendado": "Catálogo + ficha técnica: tipos de plástico (PE, PP, PVC, ABS), produtos fabricados, certificações (RoHS, FDA se aplicável), capacidade.",
+    "manutencao_dores": [
+      "Injetoras e extrusoras param toda hora — moldes e resistências",
+      "Sistema de refrigeração da injetora é fonte constante de problema"
+    ],
+    "pitch_manutencao": "Injetoras e extrusoras tem 5 pontos críticos: motor, resistências, sistema hidráulico, refrigeração e moldes. Mapeio tudo em 1 visita técnica.",
+    "pitch_site": "Plástico é commodity — cliente compara online. Sem site, você sai da disputa. Catálogo R$ 2,5k posiciona como fornecedor sério.",
+    "score_vm": 10
   },
   {
     "rank": 21,
@@ -986,7 +1185,18 @@
       "Usiniteck usinagens",
       "Budai Indústria Metalúrgica",
       "Recanto do Aço"
-    ]
+    ],
+    "dominio_sugerido": "iacotalurgica.com.br",
+    "tipo_site": "Catálogo industrial",
+    "site_recomendado": "Site catálogo (1 página): produtos fabricados, processos disponíveis (corte, dobra, solda), galeria de obras, ficha técnica em PDF, formulário de orçamento.",
+    "manutencao_dores": [
+      "Prensas, fornos, calandras param produção quando quebram",
+      "Solda elétrica e estruturas de alta carga têm fadiga",
+      "Motores trifásicos exigem termografia e análise de vibração"
+    ],
+    "pitch_manutencao": "Vocês têm máquinas pesadas que param produção quando falham. Posso fazer uma análise de vibração + termografia preventiva nos motores e prensas — em 1 visita identifico os 3 pontos que mais te dão prejuízo.",
+    "pitch_site": "Hoje você só aparece se o cliente já te conhece. Com um site simples (R$ 2k-3k, 1 semana), você pega clientes do Google buscando 'metalúrgica em [cidade]' — esse tráfego é puro lead qualificado.",
+    "score_vm": 10
   },
   {
     "rank": 22,
@@ -1037,7 +1247,17 @@
       "Elcos indústria e comércio de produtos cosméticos",
       "Phyto Green Industria e Comercio de Cosméticos",
       "Ana Paula C Spacca"
-    ]
+    ],
+    "dominio_sugerido": "apcsinddecosticos.com.br",
+    "tipo_site": "Site institucional + ANVISA",
+    "site_recomendado": "Site institucional + portfolio de marcas/produtos + certificações ANVISA + contato terceirização.",
+    "manutencao_dores": [
+      "Misturadores, reatores e envasadoras",
+      "Conformidade ANVISA exige manutenção documentada"
+    ],
+    "pitch_manutencao": "Cosmético precisa de manutenção rastreável (ANVISA). Plano com checklist + relatório mensal pra você ter compliance.",
+    "pitch_site": "Cliente B2B (drogaria, distribuidor) só fecha com fabricante que tem site. R$ 2,5k pra abrir esse canal.",
+    "score_vm": 8
   },
   {
     "rank": 23,
@@ -1059,7 +1279,18 @@
       "GlobalMoldes - Rematec Ind. Metalurgica",
       "Maxtec Indústria e Comércio Ltda.",
       "DINIEPER"
-    ]
+    ],
+    "dominio_sugerido": "rematectalurgica.com.br",
+    "tipo_site": "Catálogo industrial",
+    "site_recomendado": "Site catálogo (1 página): produtos fabricados, processos disponíveis (corte, dobra, solda), galeria de obras, ficha técnica em PDF, formulário de orçamento.",
+    "manutencao_dores": [
+      "Prensas, fornos, calandras param produção quando quebram",
+      "Solda elétrica e estruturas de alta carga têm fadiga",
+      "Motores trifásicos exigem termografia e análise de vibração"
+    ],
+    "pitch_manutencao": "Vocês têm máquinas pesadas que param produção quando falham. Posso fazer uma análise de vibração + termografia preventiva nos motores e prensas — em 1 visita identifico os 3 pontos que mais te dão prejuízo.",
+    "pitch_site": "Hoje você só aparece se o cliente já te conhece. Com um site simples (R$ 2k-3k, 1 semana), você pega clientes do Google buscando 'metalúrgica em [cidade]' — esse tráfego é puro lead qualificado.",
+    "score_vm": 10
   },
   {
     "rank": 24,
@@ -1081,7 +1312,17 @@
       "Fazelo II Indústria Comércio Prestação Serviços Ltda-EPP.",
       "Densitel Comercial",
       "Roquette Brazil"
-    ]
+    ],
+    "dominio_sugerido": "rochestertextil.com.br",
+    "tipo_site": "Catálogo de tecidos",
+    "site_recomendado": "Catálogo de tecidos com gramatura, composição, MOQ, fotos amostras.",
+    "manutencao_dores": [
+      "Teares e máquinas de costura têm muito desgaste mecânico",
+      "Sistemas elétricos antigos são fonte de incêndio"
+    ],
+    "pitch_manutencao": "Tecelagem tem maquinário antigo + elétrica vulnerável. Inspeção termográfica em painéis evita incêndio + plano preventivo de teares.",
+    "pitch_site": "Confecções compram online. Site catálogo R$ 2,5k mostrando gramaturas e cores fecha pedido sem precisar visita.",
+    "score_vm": 8
   },
   {
     "rank": 25,
@@ -1132,7 +1373,16 @@
       "ULTTRA Comércio Descartáveis.",
       "BrasLimpe",
       "Mendes Lima distribuidora produtos de limpeza osasco"
-    ]
+    ],
+    "dominio_sugerido": "alvegime.com.br",
+    "tipo_site": "Catálogo B2B",
+    "site_recomendado": "Catálogo de produtos + fichas de segurança (FISPQ) + canal pra distribuidor.",
+    "manutencao_dores": [
+      "Misturadores, envasadoras, sistemas de bombeamento"
+    ],
+    "pitch_manutencao": "Equipamento de envase parado = pedido atrasado. Manutenção mensal de envase + bombeamento.",
+    "pitch_site": "Distribuidor B2B pesquisa FISPQ antes de comprar. Site R$ 2k com FISPQ + catálogo abre canal.",
+    "score_vm": 7
   },
   {
     "rank": 26,
@@ -1183,7 +1433,17 @@
       "Usiffer usinagem, tornearia e Soluções Industriais",
       "Tornearia Ribeiro",
       "Mecânica Phatric"
-    ]
+    ],
+    "dominio_sugerido": "usinagemtornoesoldaalumin.com.br",
+    "tipo_site": "Showroom + catálogo",
+    "site_recomendado": "Site showroom: portfolio de produtos com fotos profissionais, processo produtivo, certificações, formulário de cotação.",
+    "manutencao_dores": [
+      "Linha de produção tem cascata: 1 máquina parada para tudo",
+      "Compressores, esteiras, motores são pontos comuns de falha"
+    ],
+    "pitch_manutencao": "Linha de produção é cascata: 1 máquina para = todas param. Visita técnica gratuita pra mapear os 5 equipamentos críticos e montar plano preventivo mensal.",
+    "pitch_site": "Sua produção é boa mas o cliente só te acha por boca a boca. Site showroom (R$ 2,5k) com fotos dos produtos triplica orçamento via WhatsApp em 60 dias.",
+    "score_vm": 8
   },
   {
     "rank": 27,
@@ -1234,7 +1494,17 @@
       "Usinagem André Oliveira",
       "Maver Usinagem",
       "Usinagem Silvamix"
-    ]
+    ],
+    "dominio_sugerido": "usinagemlima.com.br",
+    "tipo_site": "Site de serviços",
+    "site_recomendado": "Site de serviços: o que faz (retífica, ajuste, montagem), tipos de motor atendidos, prazo, fotos antes/depois, depoimentos.",
+    "manutencao_dores": [
+      "Equipamentos de retífica e bancada têm desgaste constante",
+      "Compressores e elevadores precisam de manutenção periódica obrigatória"
+    ],
+    "pitch_manutencao": "Equipamentos de retífica e bancada degradam — manutenção preventiva mensal evita parada inesperada e mantém precisão dimensional.",
+    "pitch_site": "Cliente busca 'retífica de motor [cidade]' no Google. Sem site, ele acha o concorrente. Site (R$ 1,5k) garante presença.",
+    "score_vm": 8
   },
   {
     "rank": 28,
@@ -1285,7 +1555,17 @@
       "ITA - Usinagem Mecânica",
       "KM Prestação de Serviços",
       "SUSAI - Serviço de Usinagem Automotiva e Industrial"
-    ]
+    ],
+    "dominio_sugerido": "usinagemitapevi.com.br",
+    "tipo_site": "Site simples + portfolio",
+    "site_recomendado": "Site enxuto: o que faz, materiais (aço, alumínio, inox), peças que produz com fotos, prazo médio, contato.",
+    "manutencao_dores": [
+      "Tornos têm problemas de barramento, fuso e mancal",
+      "Análise de vibração antecipa rolamento batendo"
+    ],
+    "pitch_manutencao": "Torno parado é prejuízo direto. Fazemos análise de vibração + alinhamento a laser — antecipa quebra de fuso e rolamento em 2-3 meses.",
+    "pitch_site": "Site enxuto (R$ 1,5k, 5 dias) mostrando suas peças no Google = mais orçamento qualificado.",
+    "score_vm": 10
   },
   {
     "rank": 29,
@@ -1336,7 +1616,18 @@
       "Forjafix Elementos de Fixação Ltda",
       "MM Artefatos metalurgia e desenvolvimento",
       "Fazelo II Indústria Comércio Prestação Serviços Ltda-EPP."
-    ]
+    ],
+    "dominio_sugerido": "polifacildepecaseireli.com.br",
+    "tipo_site": "Catálogo industrial",
+    "site_recomendado": "Site catálogo (1 página): produtos fabricados, processos disponíveis (corte, dobra, solda), galeria de obras, ficha técnica em PDF, formulário de orçamento.",
+    "manutencao_dores": [
+      "Prensas, fornos, calandras param produção quando quebram",
+      "Solda elétrica e estruturas de alta carga têm fadiga",
+      "Motores trifásicos exigem termografia e análise de vibração"
+    ],
+    "pitch_manutencao": "Vocês têm máquinas pesadas que param produção quando falham. Posso fazer uma análise de vibração + termografia preventiva nos motores e prensas — em 1 visita identifico os 3 pontos que mais te dão prejuízo.",
+    "pitch_site": "Hoje você só aparece se o cliente já te conhece. Com um site simples (R$ 2k-3k, 1 semana), você pega clientes do Google buscando 'metalúrgica em [cidade]' — esse tráfego é puro lead qualificado.",
+    "score_vm": 10
   },
   {
     "rank": 30,
@@ -1387,7 +1678,17 @@
       "Osaspack Comercio De Embalagens",
       "Empelbra Embalagens",
       "Indústria e Comércio de Embalagens Plásticas"
-    ]
+    ],
+    "dominio_sugerido": "pbsembalagens.com.br",
+    "tipo_site": "Catálogo de produtos",
+    "site_recomendado": "Catálogo de embalagens: tipos (sacos, caixas, blísters), materiais, dimensões, MOQ, fotos.",
+    "manutencao_dores": [
+      "Máquinas embaladoras tem sensores e atuadores que falham",
+      "Esteiras e linhas de envase param produção em massa"
+    ],
+    "pitch_manutencao": "Linha de embalagem para = produção inteira para. Sensores, atuadores, esteiras: 12 pontos preventivos mensais que evitam parada não planejada.",
+    "pitch_site": "Site catálogo R$ 2,5k com filtro por tipo/dimensão acelera pedido — cliente B2B compara online antes de ligar.",
+    "score_vm": 10
   },
   {
     "rank": 31,
@@ -1409,7 +1710,18 @@
       "Metalúrgica Cajamar Ltda",
       "Metalgráfica Rojek",
       "Metalúrgica Cajamar"
-    ]
+    ],
+    "dominio_sugerido": "kimgtalurgica.com.br",
+    "tipo_site": "Catálogo industrial",
+    "site_recomendado": "Site catálogo (1 página): produtos fabricados, processos disponíveis (corte, dobra, solda), galeria de obras, ficha técnica em PDF, formulário de orçamento.",
+    "manutencao_dores": [
+      "Prensas, fornos, calandras param produção quando quebram",
+      "Solda elétrica e estruturas de alta carga têm fadiga",
+      "Motores trifásicos exigem termografia e análise de vibração"
+    ],
+    "pitch_manutencao": "Vocês têm máquinas pesadas que param produção quando falham. Posso fazer uma análise de vibração + termografia preventiva nos motores e prensas — em 1 visita identifico os 3 pontos que mais te dão prejuízo.",
+    "pitch_site": "Hoje você só aparece se o cliente já te conhece. Com um site simples (R$ 2k-3k, 1 semana), você pega clientes do Google buscando 'metalúrgica em [cidade]' — esse tráfego é puro lead qualificado.",
+    "score_vm": 10
   },
   {
     "rank": 32,
@@ -1465,7 +1777,17 @@
       "Fábrica de Salgados MM",
       "Fabrica De Mini Salgados Ray",
       "Mily Salgados"
-    ]
+    ],
+    "dominio_sugerido": "family-fabricadelgados.com.br",
+    "tipo_site": "Site institucional + ANVISA",
+    "site_recomendado": "Site institucional: linha de produtos, certificações (ANVISA, BPF), capacidade, contato comercial, fotos de produção.",
+    "manutencao_dores": [
+      "Equipamentos de cocção, refrigeração e envase não podem parar",
+      "Refrigeração tem normas sanitárias rigorosas — manutenção é obrigatória"
+    ],
+    "pitch_manutencao": "Alimentos exige 100% uptime + conformidade sanitária. Fazemos manutenção em refrigeração, envase e cozimento — laudos pra ANVISA inclusos.",
+    "pitch_site": "Distribuidor não compra de fabricante sem site. R$ 2,5k pra ter institucional e abrir portas no varejo regional.",
+    "score_vm": 10
   },
   {
     "rank": 33,
@@ -1521,7 +1843,16 @@
       "Rematec Indústria Metalúrgica",
       "Metalurgico",
       "DINIEPER"
-    ]
+    ],
+    "dominio_sugerido": "fabricadotal.com.br",
+    "tipo_site": "Catálogo técnico",
+    "site_recomendado": "Catálogo técnico com ligas, dimensões padrão, certificados, capacidade.",
+    "manutencao_dores": [
+      "Laminadores, fornos, equipamentos de transformação a quente"
+    ],
+    "pitch_manutencao": "Equipamento siderúrgico é caro pra parar. Manutenção preditiva (vibração + termografia) antecipa falha grande.",
+    "pitch_site": "Construtora pesquisa fornecedor de aço por especificação. Site técnico R$ 3k mostra que você tem o que ela precisa.",
+    "score_vm": 10
   },
   {
     "rank": 34,
@@ -1572,7 +1903,17 @@
       "Usinagem Torno e Solda “Alumínio, Inox, Ferro, Ferro Fundido em Geral”",
       "D&F Indústria e Comércio de Ferramentas de Corte Ltda",
       "Door Técnica"
-    ]
+    ],
+    "dominio_sugerido": "tornadoferrantas.com.br",
+    "tipo_site": "Catálogo de ferramentas",
+    "site_recomendado": "Catálogo de ferramentas (tipo, dimensão, aplicação), instruções de uso, casos de cliente.",
+    "manutencao_dores": [
+      "Máquinas de afiação e tratamento térmico",
+      "CNC + retífica são equipamentos de alta precisão"
+    ],
+    "pitch_manutencao": "Sua ferramenta é precisa porque sua máquina é precisa. Manutenção preditiva mantém tolerância dimensional do produto final.",
+    "pitch_site": "Indústria compra ferramenta por especificação técnica. Sem site = sem disputa. R$ 2,5k pra catálogo + fichas técnicas.",
+    "score_vm": 9
   },
   {
     "rank": 35,
@@ -1623,7 +1964,17 @@
       "Flow Técnica Ind Com e Serv de Prod Hospitalares",
       "Metalplan Equipamentos Ltda.",
       "VMC & STH"
-    ]
+    ],
+    "dominio_sugerido": "flowcastinjecaosobpreso.com.br",
+    "tipo_site": "Catálogo técnico avançado",
+    "site_recomendado": "Catálogo técnico: ligas trabalhadas, peso máximo de peça, processos (areia, gravidade, pressão), galerias.",
+    "manutencao_dores": [
+      "Fornos de fundição são pontos críticos absolutos",
+      "Sistemas de exaustão e refrigeração não podem falhar"
+    ],
+    "pitch_manutencao": "Forno parado em fundição é caos absoluto. Manutenção em fornos, sistemas de exaustão e moldagem — temos especialista que já trabalhou em fundição.",
+    "pitch_site": "Fundição B2B exige confiança. Site técnico R$ 3k com certificações e cases passa credibilidade pra fechar com OEM.",
+    "score_vm": 9
   },
   {
     "rank": 36,
@@ -1674,7 +2025,17 @@
       "Sefplast Indústria e Comércio de Plásticos",
       "Plastwest Indústria e Comércio de Plásticos",
       "Brancotex Indústrias Químicas"
-    ]
+    ],
+    "dominio_sugerido": "revitechedeplasticos.com.br",
+    "tipo_site": "Catálogo + linha técnica",
+    "site_recomendado": "Catálogo + ficha técnica: tipos de plástico (PE, PP, PVC, ABS), produtos fabricados, certificações (RoHS, FDA se aplicável), capacidade.",
+    "manutencao_dores": [
+      "Injetoras e extrusoras param toda hora — moldes e resistências",
+      "Sistema de refrigeração da injetora é fonte constante de problema"
+    ],
+    "pitch_manutencao": "Injetoras e extrusoras tem 5 pontos críticos: motor, resistências, sistema hidráulico, refrigeração e moldes. Mapeio tudo em 1 visita técnica.",
+    "pitch_site": "Plástico é commodity — cliente compara online. Sem site, você sai da disputa. Catálogo R$ 2,5k posiciona como fornecedor sério.",
+    "score_vm": 9
   },
   {
     "rank": 37,
@@ -1696,7 +2057,17 @@
       "Mantotec",
       "CompLog Tecnologia e Sistemas",
       "Centro de distribuição e Demo Center Comprint Máquinas e Materiais Gráficos"
-    ]
+    ],
+    "dominio_sugerido": "magnetocomp.com.br",
+    "tipo_site": "Showroom + catálogo",
+    "site_recomendado": "Site showroom: portfolio de produtos com fotos profissionais, processo produtivo, certificações, formulário de cotação.",
+    "manutencao_dores": [
+      "Linha de produção tem cascata: 1 máquina parada para tudo",
+      "Compressores, esteiras, motores são pontos comuns de falha"
+    ],
+    "pitch_manutencao": "Linha de produção é cascata: 1 máquina para = todas param. Visita técnica gratuita pra mapear os 5 equipamentos críticos e montar plano preventivo mensal.",
+    "pitch_site": "Sua produção é boa mas o cliente só te acha por boca a boca. Site showroom (R$ 2,5k) com fotos dos produtos triplica orçamento via WhatsApp em 60 dias.",
+    "score_vm": 9
   },
   {
     "rank": 38,
@@ -1747,7 +2118,16 @@
       "Silmatec Ferramentaria",
       "Multmetais usinagem",
       "Usitec Usinagem"
-    ]
+    ],
+    "dominio_sugerido": "multusiservicosesdeferran.com.br",
+    "tipo_site": "Site profissional concorrente",
+    "site_recomendado": "Site institucional + área de atuação + cases. (Concorrente direto da VM — abordar como parceria de regional.)",
+    "manutencao_dores": [
+      "Eles fazem manutenção, mas têm máquinas próprias (oficina)"
+    ],
+    "pitch_manutencao": "Não são lead diretos — são CONCORRENTES. Abordar como possível parceria/subcontratação em demandas que excedem capacidade deles.",
+    "pitch_site": "Concorrente — pular ou abordar como parceria.",
+    "score_vm": 5
   },
   {
     "rank": 39,
@@ -1798,7 +2178,18 @@
       "SERRALHERIA - MM Estruturas Metálicas - Itapevi",
       "Budai Indústria Metalúrgica",
       "Usiniteck usinagens"
-    ]
+    ],
+    "dominio_sugerido": "mmartefatostalurgiaedesen.com.br",
+    "tipo_site": "Catálogo industrial",
+    "site_recomendado": "Site catálogo (1 página): produtos fabricados, processos disponíveis (corte, dobra, solda), galeria de obras, ficha técnica em PDF, formulário de orçamento.",
+    "manutencao_dores": [
+      "Prensas, fornos, calandras param produção quando quebram",
+      "Solda elétrica e estruturas de alta carga têm fadiga",
+      "Motores trifásicos exigem termografia e análise de vibração"
+    ],
+    "pitch_manutencao": "Vocês têm máquinas pesadas que param produção quando falham. Posso fazer uma análise de vibração + termografia preventiva nos motores e prensas — em 1 visita identifico os 3 pontos que mais te dão prejuízo.",
+    "pitch_site": "Hoje você só aparece se o cliente já te conhece. Com um site simples (R$ 2k-3k, 1 semana), você pega clientes do Google buscando 'metalúrgica em [cidade]' — esse tráfego é puro lead qualificado.",
+    "score_vm": 10
   },
   {
     "rank": 40,
@@ -1849,7 +2240,16 @@
       "A S Soldas Especiais Ltda",
       "Arte Soldas",
       "R.A"
-    ]
+    ],
+    "dominio_sugerido": "ansoldasespeciais.com.br",
+    "tipo_site": "Site de serviços com galeria",
+    "site_recomendado": "Site simples: tipos de solda (MIG, TIG, eletrodo), trabalhos feitos, fotos antes/depois, contato 24h.",
+    "manutencao_dores": [
+      "Máquinas de solda e gerador"
+    ],
+    "pitch_manutencao": "Manutenção em máquina de solda + gerador — calibragem mantém qualidade do cordão.",
+    "pitch_site": "Cliente urgente busca solda 'que vai aí' no Google. Sem site, ele pega o primeiro. R$ 1,5k pra estar lá.",
+    "score_vm": 8
   },
   {
     "rank": 41,
@@ -1871,7 +2271,16 @@
       "Liquigás Famagás - Barueri",
       "Messer Gases - Alphaville",
       "NACIONALGAS"
-    ]
+    ],
+    "dominio_sugerido": "formagasindcomacessoriosp.com.br",
+    "tipo_site": "Catálogo técnico",
+    "site_recomendado": "Catálogo técnico com ligas, dimensões padrão, certificados, capacidade.",
+    "manutencao_dores": [
+      "Laminadores, fornos, equipamentos de transformação a quente"
+    ],
+    "pitch_manutencao": "Equipamento siderúrgico é caro pra parar. Manutenção preditiva (vibração + termografia) antecipa falha grande.",
+    "pitch_site": "Construtora pesquisa fornecedor de aço por especificação. Site técnico R$ 3k mostra que você tem o que ela precisa.",
+    "score_vm": 10
   },
   {
     "rank": 42,
@@ -1893,7 +2302,17 @@
       "Celso Salgados / Festa e revenda",
       "Fábrica de Salgados Vitapólis",
       "AMANTES DOS SALGADOS"
-    ]
+    ],
+    "dominio_sugerido": "fabricaexploodelgados.com.br",
+    "tipo_site": "Site institucional + ANVISA",
+    "site_recomendado": "Site institucional: linha de produtos, certificações (ANVISA, BPF), capacidade, contato comercial, fotos de produção.",
+    "manutencao_dores": [
+      "Equipamentos de cocção, refrigeração e envase não podem parar",
+      "Refrigeração tem normas sanitárias rigorosas — manutenção é obrigatória"
+    ],
+    "pitch_manutencao": "Alimentos exige 100% uptime + conformidade sanitária. Fazemos manutenção em refrigeração, envase e cozimento — laudos pra ANVISA inclusos.",
+    "pitch_site": "Distribuidor não compra de fabricante sem site. R$ 2,5k pra ter institucional e abrir portas no varejo regional.",
+    "score_vm": 8
   },
   {
     "rank": 43,
@@ -1915,7 +2334,16 @@
       "Rochester Indústria Comércio Têxtil",
       "Denver Especialidades Químicas - Filial Itapevi/SP",
       "BrasALPLA Brasil Indústria de Embalagens Ltda."
-    ]
+    ],
+    "dominio_sugerido": "sipasularica.com.br",
+    "tipo_site": "Catálogo simples",
+    "site_recomendado": "Site institucional simples: o que faz, principais produtos/serviços, casos, contato.",
+    "manutencao_dores": [
+      "Equipamentos de produção têm desgaste e exigem manutenção"
+    ],
+    "pitch_manutencao": "Visita técnica gratuita pra mapear seus 3 equipamentos críticos.",
+    "pitch_site": "Site simples (R$ 2k) coloca você no Google e capta orçamentos B2B.",
+    "score_vm": 4
   },
   {
     "rank": 44,
@@ -1966,7 +2394,18 @@
       "Artmetal Indústria e Comércio",
       "CR Sena Metalúrgica",
       "A Kalman Metalúrgica Kalindus"
-    ]
+    ],
+    "dominio_sugerido": "simarentalurgica.com.br",
+    "tipo_site": "Catálogo industrial",
+    "site_recomendado": "Site catálogo (1 página): produtos fabricados, processos disponíveis (corte, dobra, solda), galeria de obras, ficha técnica em PDF, formulário de orçamento.",
+    "manutencao_dores": [
+      "Prensas, fornos, calandras param produção quando quebram",
+      "Solda elétrica e estruturas de alta carga têm fadiga",
+      "Motores trifásicos exigem termografia e análise de vibração"
+    ],
+    "pitch_manutencao": "Vocês têm máquinas pesadas que param produção quando falham. Posso fazer uma análise de vibração + termografia preventiva nos motores e prensas — em 1 visita identifico os 3 pontos que mais te dão prejuízo.",
+    "pitch_site": "Hoje você só aparece se o cliente já te conhece. Com um site simples (R$ 2k-3k, 1 semana), você pega clientes do Google buscando 'metalúrgica em [cidade]' — esse tráfego é puro lead qualificado.",
+    "score_vm": 10
   },
   {
     "rank": 45,
@@ -2017,7 +2456,17 @@
       "Udiffer Ferro e Aço",
       "Udicorte Comércio Ferro Aço",
       "Olifer Indústria e Comércio de Ferro e Aço Ltda"
-    ]
+    ],
+    "dominio_sugerido": "osrideferroeaco-.com.br",
+    "tipo_site": "E-commerce B2B / catálogo",
+    "site_recomendado": "Catálogo de bitolas + tipos de aço, calculadora de peso, formulário de cotação, frota de entrega.",
+    "manutencao_dores": [
+      "Empilhadeiras, pontes rolantes e cortadoras",
+      "Manutenção em equipamento de movimentação é crítica (segurança)"
+    ],
+    "pitch_manutencao": "Ponte rolante e empilhadeira são equipamentos de risco. Inspeção mensal + laudo de carga te tira de risco trabalhista (NR-11, NR-12).",
+    "pitch_site": "Cliente B2B pede cotação por WhatsApp depois de pesquisar online. Sem site, você nem é considerado. R$ 3k pra catálogo com calculadora de peso.",
+    "score_vm": 7
   },
   {
     "rank": 46,
@@ -2068,7 +2517,16 @@
       "Fama Higiene e Limpeza",
       "HiperLimpo Distribuidora",
       "LIMPAZ"
-    ]
+    ],
+    "dominio_sugerido": "ndeslimadistribuidoraprod.com.br",
+    "tipo_site": "Catálogo B2B",
+    "site_recomendado": "Catálogo de produtos + fichas de segurança (FISPQ) + canal pra distribuidor.",
+    "manutencao_dores": [
+      "Misturadores, envasadoras, sistemas de bombeamento"
+    ],
+    "pitch_manutencao": "Equipamento de envase parado = pedido atrasado. Manutenção mensal de envase + bombeamento.",
+    "pitch_site": "Distribuidor B2B pesquisa FISPQ antes de comprar. Site R$ 2k com FISPQ + catálogo abre canal.",
+    "score_vm": 6
   },
   {
     "rank": 47,
@@ -2119,7 +2577,18 @@
       "PORTÕES AUTOMÁTICOS MAX - SERRALHERIA",
       "PS Metálica",
       "M&M esquadrias metálicas"
-    ]
+    ],
+    "dominio_sugerido": "maxtalurgiamobiliariosemt.com.br",
+    "tipo_site": "Catálogo industrial",
+    "site_recomendado": "Site catálogo (1 página): produtos fabricados, processos disponíveis (corte, dobra, solda), galeria de obras, ficha técnica em PDF, formulário de orçamento.",
+    "manutencao_dores": [
+      "Prensas, fornos, calandras param produção quando quebram",
+      "Solda elétrica e estruturas de alta carga têm fadiga",
+      "Motores trifásicos exigem termografia e análise de vibração"
+    ],
+    "pitch_manutencao": "Vocês têm máquinas pesadas que param produção quando falham. Posso fazer uma análise de vibração + termografia preventiva nos motores e prensas — em 1 visita identifico os 3 pontos que mais te dão prejuízo.",
+    "pitch_site": "Hoje você só aparece se o cliente já te conhece. Com um site simples (R$ 2k-3k, 1 semana), você pega clientes do Google buscando 'metalúrgica em [cidade]' — esse tráfego é puro lead qualificado.",
+    "score_vm": 9
   },
   {
     "rank": 48,
@@ -2141,7 +2610,17 @@
       "JB Eletrônico",
       "Neutron Transformadores",
       "Daher Acessórios Eletrônics"
-    ]
+    ],
+    "dominio_sugerido": "alloraedecomponenteseletr.com.br",
+    "tipo_site": "E-commerce / catálogo técnico",
+    "site_recomendado": "E-commerce ou catálogo com filtro por código (parte number), datasheets em PDF.",
+    "manutencao_dores": [
+      "Equipamentos de teste e bancada",
+      "Sistemas de armazenamento controlado (umidade)"
+    ],
+    "pitch_manutencao": "Equipamento de teste descalibrado = lote rejeitado. Calibração + manutenção preventiva trimestral.",
+    "pitch_site": "Eletrônica B2B é 100% online — cliente busca por part number. Sem site você simplesmente não existe nesse mercado. R$ 4k pra e-commerce.",
+    "score_vm": 8
   },
   {
     "rank": 49,
@@ -2192,7 +2671,17 @@
       "AG BLOCOS",
       "EVG BLOCOS",
       "Fábrica De Blocos Do Mineiro"
-    ]
+    ],
+    "dominio_sugerido": "fabricadeblocosmineiro.com.br",
+    "tipo_site": "Showroom + catálogo",
+    "site_recomendado": "Site showroom: portfolio de produtos com fotos profissionais, processo produtivo, certificações, formulário de cotação.",
+    "manutencao_dores": [
+      "Linha de produção tem cascata: 1 máquina parada para tudo",
+      "Compressores, esteiras, motores são pontos comuns de falha"
+    ],
+    "pitch_manutencao": "Linha de produção é cascata: 1 máquina para = todas param. Visita técnica gratuita pra mapear os 5 equipamentos críticos e montar plano preventivo mensal.",
+    "pitch_site": "Sua produção é boa mas o cliente só te acha por boca a boca. Site showroom (R$ 2,5k) com fotos dos produtos triplica orçamento via WhatsApp em 60 dias.",
+    "score_vm": 8
   },
   {
     "rank": 50,
@@ -2243,6 +2732,16 @@
       "Fábrica de Salgados Rm",
       "Ki Salgados parque viana",
       "Fábrica de Salgados JM"
-    ]
+    ],
+    "dominio_sugerido": "kytopfabricadelgados.com.br",
+    "tipo_site": "Showroom + catálogo",
+    "site_recomendado": "Site showroom: portfolio de produtos com fotos profissionais, processo produtivo, certificações, formulário de cotação.",
+    "manutencao_dores": [
+      "Linha de produção tem cascata: 1 máquina parada para tudo",
+      "Compressores, esteiras, motores são pontos comuns de falha"
+    ],
+    "pitch_manutencao": "Linha de produção é cascata: 1 máquina para = todas param. Visita técnica gratuita pra mapear os 5 equipamentos críticos e montar plano preventivo mensal.",
+    "pitch_site": "Sua produção é boa mas o cliente só te acha por boca a boca. Site showroom (R$ 2,5k) com fotos dos produtos triplica orçamento via WhatsApp em 60 dias.",
+    "score_vm": 8
   }
 ]

@@ -194,6 +194,80 @@
     padding: 2px 8px;
     border-radius: 4px;
   }
+  .score {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background: var(--yellow);
+    color: #000;
+    font-weight: 800;
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+  }
+  .score.cold { background: #555; color: #ccc; }
+  .score.warm { background: #f59e0b; color: #000; }
+  .score.hot { background: var(--yellow); color: #000; }
+  .card { position: relative; }
+  details {
+    margin-top: 8px;
+    background: #0d1a0d;
+    border: 1px solid #1f3d1f;
+    border-radius: 8px;
+    padding: 0;
+    overflow: hidden;
+  }
+  details.site-block {
+    background: #0d1525;
+    border-color: #1f3354;
+  }
+  details summary {
+    cursor: pointer;
+    padding: 10px 14px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    list-style: none;
+    user-select: none;
+    color: var(--green);
+  }
+  details.site-block summary { color: #4285f4; }
+  details summary::-webkit-details-marker { display: none; }
+  details summary::after {
+    content: ' ▼';
+    font-size: 0.7em;
+    opacity: 0.6;
+  }
+  details[open] summary::after { content: ' ▲'; }
+  details .det-body {
+    padding: 0 14px 12px;
+    font-size: 0.82rem;
+    color: #ccc;
+    line-height: 1.5;
+  }
+  details .det-body p { margin-top: 8px; }
+  details .det-body strong { color: #fff; }
+  details ul { margin: 4px 0 4px 18px; }
+  .domain {
+    display: inline-block;
+    background: var(--bg-elevated);
+    border: 1px dashed var(--border);
+    color: var(--blue);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-family: monospace;
+    font-size: 0.78rem;
+    margin: 4px 0;
+  }
+  .pitch-block {
+    background: #1a1a0d;
+    border-left: 3px solid var(--yellow);
+    padding: 10px 12px;
+    border-radius: 4px;
+    margin: 6px 0;
+    font-size: 0.82rem;
+    font-style: italic;
+    color: #ddd;
+  }
   footer {
     text-align: center;
     padding: 32px 24px;
@@ -244,6 +318,11 @@
     <option value="celular">Só celular (WhatsApp)</option>
     <option value="fixo">Só fixo</option>
   </select>
+  <select id="ordem">
+    <option value="rank">Ordem: padrão</option>
+    <option value="score">Ordem: score VM (quente → frio)</option>
+    <option value="reviews">Ordem: + avaliações</option>
+  </select>
 </div>
 
 <div class="grid" id="grid"></div>
@@ -259,18 +338,26 @@ const grid = document.getElementById('grid');
 const busca = document.getElementById('busca');
 const cidade = document.getElementById('cidade');
 const tipo = document.getElementById('tipo');
+const ordem = document.getElementById('ordem');
 
 function escapeHTML(s) {
   if (!s) return '';
   return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'})[c]);
 }
 
+function scoreClass(s) {
+  if (s >= 9) return 'hot';
+  if (s >= 7) return 'warm';
+  return 'cold';
+}
+
 function render() {
   const q = busca.value.toLowerCase().trim();
   const c = cidade.value;
   const t = tipo.value;
+  const o = ordem.value;
 
-  const filtered = leads.filter(l => {
+  let filtered = leads.filter(l => {
     if (q) {
       const txt = (l.nome + ' ' + l.categoria + ' ' + l.bairro + ' ' + l.endereco).toLowerCase();
       if (!txt.includes(q)) return false;
@@ -280,6 +367,9 @@ function render() {
     return true;
   });
 
+  if (o === 'score') filtered = filtered.slice().sort((a,b) => (b.score_vm||0) - (a.score_vm||0));
+  else if (o === 'reviews') filtered = filtered.slice().sort((a,b) => (b.reviews||0) - (a.reviews||0));
+
   if (filtered.length === 0) {
     grid.innerHTML = '<div class="empty">Nenhum lead encontrado com esses filtros.</div>';
     return;
@@ -287,6 +377,7 @@ function render() {
 
   grid.innerHTML = filtered.map(l => `
     <div class="card">
+      ${l.score_vm ? `<div class="score ${scoreClass(l.score_vm)}" title="Score VM (potencial pra fechar)">🔥 ${l.score_vm}/10</div>` : ''}
       <div class="card-head">
         <div class="rank">${l.rank}</div>
         <div class="card-title">${escapeHTML(l.nome)}</div>
@@ -302,6 +393,31 @@ function render() {
         <div class="info-row"><span class="icon">📍</span><span>${escapeHTML(l.endereco || '—')}</span></div>
         ${l.tags && l.tags.length ? `<div class="tags">${l.tags.slice(0,5).map(t=>`<span class="tag">${escapeHTML(t.title)} (${t.count})</span>`).join('')}</div>` : ''}
       </div>
+
+      ${l.pitch_manutencao ? `
+      <details>
+        <summary>🔧 Pitch Manutenção Industrial</summary>
+        <div class="det-body">
+          <div class="pitch-block">"${escapeHTML(l.pitch_manutencao)}"</div>
+          ${l.manutencao_dores && l.manutencao_dores.length ? `
+            <p><strong>Dores típicas:</strong></p>
+            <ul>${l.manutencao_dores.map(d => `<li>${escapeHTML(d)}</li>`).join('')}</ul>
+          ` : ''}
+        </div>
+      </details>` : ''}
+
+      ${l.site_recomendado ? `
+      <details class="site-block">
+        <summary>🌐 Sugestão de Site (cross-sell)</summary>
+        <div class="det-body">
+          <p><strong>Tipo recomendado:</strong> ${escapeHTML(l.tipo_site || '—')}</p>
+          <p><strong>Domínio sugerido:</strong> <span class="domain">${escapeHTML(l.dominio_sugerido || '')}</span></p>
+          <p><strong>O que precisa ter:</strong></p>
+          <p>${escapeHTML(l.site_recomendado)}</p>
+          <div class="pitch-block">"${escapeHTML(l.pitch_site)}"</div>
+        </div>
+      </details>` : ''}
+
       <div class="actions">
         <a class="btn-wpp" href="${l.whatsapp}" target="_blank">💬 WhatsApp</a>
         <a class="btn-maps" href="${l.maps}" target="_blank">🗺️ Maps</a>
@@ -318,6 +434,7 @@ fetch('leads.json')
 busca.addEventListener('input', render);
 cidade.addEventListener('change', render);
 tipo.addEventListener('change', render);
+ordem.addEventListener('change', render);
 </script>
 
 </body>
